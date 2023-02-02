@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alina-d87/react-my-project/static/css/main.7acaea2f.css",
+    "main.js": "/Alina-d87/react-my-project/static/js/main.d58f0b26.js",
+    "index.html": "/Alina-d87/react-my-project/index.html",
+    "main.7acaea2f.css.map": "/Alina-d87/react-my-project/static/css/main.7acaea2f.css.map",
+    "main.d58f0b26.js.map": "/Alina-d87/react-my-project/static/js/main.d58f0b26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.d58f0b26.js"
+  ]
+}
