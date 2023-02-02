@@ -1,3 +1,5 @@
+import { Modal, ButtonModal } from "./Modal";
+
 export const App = () => {
   return (
     <div
@@ -10,6 +12,8 @@ export const App = () => {
         color: '#010101'
       }}
     >
+      <ButtonModal />
+      <Modal />
       React homework template
     </div>
   );
