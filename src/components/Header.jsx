@@ -7,7 +7,7 @@
 
 import Header from "styled-components"
 
-export const Header = () => {
+function Header () {
 	return (
 		<Header>
 			<Logo>pe<span>t</span>ly</Logo>
